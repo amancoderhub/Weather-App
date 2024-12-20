@@ -31,3 +31,5 @@ Start the development server: npm start
 Open your browser and visit: http://localhost:3000
 
 Feel free to contribute and enhance this project. Pull requests are welcome!
+
+![Screenshot (318)](https://github.com/user-attachments/assets/af61724c-0ee3-42fc-b02b-c4b834cc2b16)
